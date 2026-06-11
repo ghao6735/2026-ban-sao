@@ -10,6 +10,9 @@ function login(){
     const value =
         input.value.trim().toLowerCase();
 
+    console.log("value =", value);
+ console.log("people =", Object.keys(people));
+console.log("people[value] =", people[value]);
     if(value === DEV_PASSWORD.toLowerCase()){
 
         devPanel.style.display = "block";
@@ -17,7 +20,7 @@ function login(){
         result.innerHTML =
             "<h3>Xin chào DEV</h3>";
 
-        return;d
+        return;
     }
 
     if(people[value]){
@@ -27,31 +30,26 @@ function login(){
         document.getElementById("mainCard")
             .style.width = "900px";
 
-        result.innerHTML = `
+      result.innerHTML = `
+    <h2>${person.message}</h2>
 
-            <h2>${person.message}</h2>
+    <div class="mac-window">
+        <div class="mac-bar">
+            <span class="red"></span>
+            <span class="yellow"></span>
+            <span class="green"></span>
+        </div>
 
-            <div class="mac-window">
+        <img id="slideImage"
+             src="${person.photos[0]}">
+    </div>
 
-                <div class="mac-bar">
-
-                    <span class="red"></span>
-                    <span class="yellow"></span>
-                    <span class="green"></span>
-
-                </div>
-
-                <img
-                    id="slideImage"
-                    src="${person.photos[0]}">
-
-            </div>
-
-            <p class="caption">
-                ${person.caption}
-            </p>
-
-        `;
+    <p class="caption">
+        ${person.caption || ""}
+    </p>
+`;
+console.log("Đã render");
+console.log(document.getElementById("slideImage"));
 
         return;
     }
@@ -59,7 +57,6 @@ function login(){
     result.innerHTML =
         "<p>Không tìm thấy dữ liệu 😥</p>";
 }
-
 btn.addEventListener("click", login);
 
 input.addEventListener("keydown",(e)=>{
