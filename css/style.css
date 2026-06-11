@@ -102,3 +102,90 @@ button:hover{
     }
 
 }
+textarea{
+    width:100%;
+    padding:14px;
+    border:none;
+    border-radius:15px;
+    background:#ffd4ea;
+    margin-bottom:12px;
+    resize:none;
+    height:80px;
+}
+#devPanel{
+    margin-top:20px;
+}
+.wish-box{
+    margin-top:20px;
+}
+
+.mac-window{
+
+    margin-top:20px;
+
+    background:white;
+
+    border-radius:18px;
+
+    overflow:hidden;
+
+    box-shadow:0 10px 25px rgba(0,0,0,.15);
+
+}
+
+.mac-bar{
+
+    height:40px;
+
+    background:#ececec;
+
+    display:flex;
+
+    align-items:center;
+
+    gap:8px;
+
+    padding-left:15px;
+}
+
+.red,
+.yellow,
+.green{
+
+    width:12px;
+    height:12px;
+
+    border-radius:50%;
+}
+
+.red{
+    background:#ff5f57;
+}
+
+.yellow{
+    background:#febc2e;
+}
+
+.green{
+    background:#28c840;
+}
+
+.mac-window img{
+
+    width:100%;
+
+    max-height:450px;
+
+    object-fit:cover;
+
+    display:block;
+}
+
+.caption{
+
+    margin-top:15px;
+
+    font-style:italic;
+
+    color:#666;
+}
