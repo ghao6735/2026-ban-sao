@@ -94,5 +94,18 @@ const people = {
         "assets/DNGOC.JPG"
     ]
     
+},
+
+"tire": {
+
+    name: "Lớp xe",
+
+    message:
+        "Hả! cái lốp mà đòi 20/10 hả =)) thôi thì chúc ông sớm kiếm được người yêu nhaa =)))",
+
+    photos: [
+        "assets/lốp xe.jpg"
+    ]
+
 }
 };
