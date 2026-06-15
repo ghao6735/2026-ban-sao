@@ -16,22 +16,6 @@ const people = {
 
     },
 
-    "cô viên-ila": {
-
-        name: "Teacher Viên and teacher Ila",
-
-        message:
-            "Happy Vietnamese Women's Day! Thank you for being not just a great teacher, but also a fun friend in our class",
-
-        caption:
-            "Một vài khoảnh khắc đáng nhớ 🌷",
-
-        photos: [
-     "assets/Cô Viên - Ila 2.jpg"
-        ]
-
-    },
-
     "cbo": {
 
         name: "Chj Po",
@@ -96,18 +80,6 @@ const people = {
     
 },
 
-"tire": {
-
-    name: "Lốp xe",
-
-    message:
-        "Hả! cái lốp mà đòi 20/10 hả =)) thôi thì chúc bồ sớm kiếm được người yêu nhaa =)))",
-
-    photos: [
-        "assets/lốp xe.JPG"
-    ]
-
-},
 
 "siri": {
 
@@ -118,32 +90,6 @@ const people = {
 
     photos: [
         "assets/siri.jpg"
-    ]
-
-},
-
-"k9 kim ngân": {
-
-    name: "Chị Ngân",
-
-    message:
-        "chúc chị Ngân 20/10 vui vẻ nheee 🌷" ,
-
-    photos: [
-        "assets/K9 Kim Ngân.jpg"
-    ]
-
-},
-
-"k9 kim anh": {
-
-    name: "Chị Kim Anh",
-
-    message:
-        "chúc chị Kim Anh 20/10 vui vẻ nheee 🌷" ,
-
-    photos: [
-        "assets/no img.png"
     ]
 
 },
@@ -280,10 +226,10 @@ const people = {
 
 "kdi": {
 
-    name: "Khánh Vy",
+    name: "Khánh Vi",
 
     message:
-        "chúc Khánh Vy 20/10 vui vẻ nheee 🌷" ,
+        "chúc Khánh Vi 20/10 vui vẻ nheee 🌷" ,
 
     photos: [
         "assets/no img.png"
@@ -306,10 +252,10 @@ const people = {
 
 "hn1m9": {
 
-    name: "Hàn Nguyền mún cao 1m9",
+    name: "Hàn Nguyên mún cao 1m9",
 
     message:
-        "chúc Hàn Nguyền mún cao 1m9 20/10 vui vẻ nheee 🌷" ,
+        "chúc Hàn Nguyên 20/10 vui vẻ nheee 🌷" ,
 
     photos: [
         "assets/no img.png"
@@ -330,8 +276,103 @@ const people = {
 
 },
 
-};
-
-
 // -------------------------------------------------------------------  K9  --------------------------------------------------------------------
 
+"k9 kim ngân": {
+
+    name: "Chị Ngân",
+
+    message:
+        "chúc chị Ngân 20/10 vui vẻ nheee 🌷" ,
+
+    photos: [
+        "assets/K9 Kim Ngân.jpg"
+    ]
+
+},
+
+"k9 kim anh": {
+
+    name: "Chị Kim Anh",
+
+    message:
+        "chúc chị Kim Anh 20/10 vui vẻ nheee 🌷" ,
+
+    photos: [
+        "assets/no img.png"
+    ]
+
+},
+
+"k9 thanh trúc": {
+
+    name: "Chị Thanh Trúc",
+
+    message:
+        "chúc chị Thanh Trúc 20/10 vui vẻ nheee 🌷" ,
+
+    photos: [
+        "assets/no img.png"
+    ]
+
+},
+
+"k9 ngân xuân": {
+
+    name: "Chị Ngân Xuân",
+
+    message:
+        "chúc chị Xuân 20/10 vui vẻ nheee 🌷" ,
+
+    photos: [
+        "assets/no img.png"
+    ]
+
+},
+
+// -------------------------------------------------------------------  Giáo viên, chung và easter egg  --------------------------------------------------------------------
+  "cô viên-ila": {
+
+        name: "Teacher Viên and teacher Ila",
+
+        message:
+            "Happy Vietnamese Women's Day! Thank you for being not just a great teacher, but also a fun friend in our class",
+
+        caption:
+            "Một vài khoảnh khắc đáng nhớ 🌷",
+
+        photos: [
+     "assets/Cô Viên - Ila 2.jpg"
+        ]
+
+    },
+
+    "tire": {
+
+    name: "Lốp xe",
+
+    message:
+        "Hả! cái lốp mà đòi 20/10 hả =)) thôi thì chúc bồ sớm kiếm được người yêu nhaa =)))",
+
+    photos: [
+        "assets/lốp xe.JPG"
+    ]
+
+},
+
+
+    "20/10": {
+
+    name: "...",
+
+    message:
+        "Chúc tất cả các bạn nữ 20/10 vui vẻ nheee 🌷" ,
+
+    photos: [
+        "assets/no img.png"
+    ]
+
+},
+
+
+};
