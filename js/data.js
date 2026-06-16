@@ -7,11 +7,10 @@ const people = {
         message:
             "Chúc Thái Như 20/10 nhận thật nhiều bó hoa từ bạn bè thân thiết 🌷",
 
-        caption:
-            "Hình từ ngày 1 tháng 11 (vì làm mất file rùi)",
+
 
         photos: [
-            "assets/TNhw.jpg"
+            "assets/-Trần Gia Hào- K10 ver.png"
         ]
 
     },
@@ -89,7 +88,7 @@ const people = {
         "chúc Ngọc Li 20/10 vui vẻ nheee 🌷" ,
 
     photos: [
-        "assets/siri.jpg"
+        "assets/-Trần Gia Hào- Siri ver.png"
     ]
 
 },
@@ -128,7 +127,7 @@ const people = {
         "chúc Ngân Đình 20/10 vui vẻ nheee 🌷" ,
 
     photos: [
-        "assets/no img.png"
+        "assets/-Trần Gia Hào- K10 ver.png"
     ]
 
 },
@@ -141,7 +140,7 @@ const people = {
         "chúc Phương Hoa 20/10 vui vẻ nheee 🌷" ,
 
     photos: [
-        "assets/no img.png  "
+        "assets/-Trần Gia Hào- K10 ver.png  "
     ]
 
 },
@@ -167,7 +166,7 @@ const people = {
         "chúc Khánh Ngọc 20/10 vui vẻ nheee 🌷" ,
 
     photos: [
-        "assets/no img.png"
+        "assets/-Trần Gia Hào- K10 ver.png"
     ]
 
 },
@@ -180,7 +179,7 @@ const people = {
         "chúc Triệu Vy 20/10 vui vẻ nheee 🌷" ,
 
     photos: [
-        "assets/no img.png"
+        "assets/-Trần Gia Hào- K10 ver.png"
     ]
 
 },
@@ -258,7 +257,7 @@ const people = {
         "chúc Hàn Nguyên 20/10 vui vẻ nheee 🌷" ,
 
     photos: [
-        "assets/no img.png"
+        "assets/-Trần Gia Hào- K10 ver.png"
     ]
 
 },
@@ -286,7 +285,7 @@ const people = {
         "chúc chị Ngân 20/10 vui vẻ nheee 🌷" ,
 
     photos: [
-        "assets/K9 Kim Ngân.jpg"
+        "assets/-Trần Gia Hào- K9 KN ver (1).png"
     ]
 
 },
@@ -299,7 +298,7 @@ const people = {
         "chúc chị Kim Anh 20/10 vui vẻ nheee 🌷" ,
 
     photos: [
-        "assets/no img.png"
+        "assets/-Trần Gia Hào- K9 KA ver.png"
     ]
 
 },
@@ -312,7 +311,7 @@ const people = {
         "chúc chị Thanh Trúc 20/10 vui vẻ nheee 🌷" ,
 
     photos: [
-        "assets/no img.png"
+        "assets/-Trần Gia Hào- K9 TT ver.png"
     ]
 
 },
@@ -325,10 +324,38 @@ const people = {
         "chúc chị Xuân 20/10 vui vẻ nheee 🌷" ,
 
     photos: [
-        "assets/no img.png"
+        "assets/-Trần Gia Hào- K9 NC ver.png"
     ]
 
 },
+
+"k9 ngọc châu": {
+
+    name: "Chị Ngọc Châu",
+
+    message:
+        "chúc chị Ngọc Châu 20/10 vui vẻ nheee 🌷" ,
+
+    photos: [
+        "assets/-Trần Gia Hào- K9 NC ver.png"
+    ]
+
+},
+
+"k9 bảo ngọc": {
+
+    name: "Chị Bảo Ngọc",
+
+    message:
+        "chúc chị Bảo Ngọc 20/10 vui vẻ nheee 🌷" ,
+
+    photos: [
+        "assets/-Trần Gia Hào- K9 BN ver.png"
+    ]
+
+},
+
+
 
 // -------------------------------------------------------------------  Giáo viên, chung và easter egg  --------------------------------------------------------------------
   "cô viên-ila": {
@@ -369,7 +396,20 @@ const people = {
         "Chúc tất cả các bạn nữ 20/10 vui vẻ nheee 🌷" ,
 
     photos: [
-        "assets/no img.png"
+        "assets/-Trần Gia Hào-.png"
+    ]
+
+},
+
+    "dev cheek": {
+
+    name: "Dev cheek",
+
+    message:
+        "Danh sách đã có bao gồm: thái như, cbo, xen, hương tiên, kim tiền, dngoc, siri, ngọc huyền, kim thảo, đình, phương hoa, nnhw, kngoc, trvy, dquynh, tiên, tgvy, kdi, tvan, hn1m9, athuu. các chị K9: k9 kim ngân, k9 kim anh, k9 thanh trúc, k9 ngân xuân và k9 ngọc châu. Ngoài ra còn có thêm cô viên-ila, tire và easter egg 20/10" ,
+
+    photos: [
+        ""
     ]
 
 },
