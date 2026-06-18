@@ -36,7 +36,7 @@ const people = {
 
     photos: [
     
-        "assets/XEN6.JPG"
+        "assets/-Trần Gia Hào- xun en ver.png"
 
     ]
 
@@ -419,7 +419,7 @@ const people = {
     name: "Dev cheek",
 
     message:
-        "Danh sách đã có bao gồm: thái như, cbo, xen, hương tiên, kim tiền, dngoc, siri, ngọc huyền, kim thảo, đình, phương hoa, nnhw, kngoc, trvy, dquynh, tiên, tgvy, kdi, tvan, hn1m9, athuu. các chị K9: k9 kim ngân, k9 kim anh, k9 thanh trúc, k9 ngân xuân và k9 ngọc châu. Ngoài ra còn có thêm cô viên-ila, tire và easter egg 20/10" ,
+        "Danh sách đã có bao gồm: thái như, cbo, xen, hương tiên, kim tiền, dngoc, siri, ngọc huyền, kim thảo, đình, phương hoa, nnhw, kngoc, trvy, dquynh, tiên, tgvy, kdi, tvan, hn1m9, athuu. các chị K9: k9 kim ngân, k9 kim anh, k9 thanh trúc, k9 ngân xuân và k9 ngọc châu. Ngoài ra còn có thêm cô viên-ila, tire và easter egg 20/10 TƯƠNG ỨNG " ,
 
     photos: [
         ""
