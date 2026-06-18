@@ -5,7 +5,7 @@ const people = {
         name: "Thái Như",
 
         message:
-            "Chúc Thái Như 20/10 nhận thật nhiều bó hoa từ bạn bè thân thiết 🌷",
+            "Chúc Thái Như 20/10 vui ver nha 🌷",
 
 
 
